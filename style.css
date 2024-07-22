@@ -11,6 +11,10 @@ input {
   font-family: "Poppins", sans-serif;
 }
 
+.xaine-logo-form{
+  margin-bottom: 20px;
+  
+}
 .container {
   position: relative;
   width: 100%;
