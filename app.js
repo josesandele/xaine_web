@@ -9,3 +9,14 @@ sign_up_btn.addEventListener("click", () => {
 sign_in_btn.addEventListener("click", () => {
   container.classList.remove("sign-up-mode");
 });
+
+
+    // const telephoneNumber = document.getElementById("numero");
+    // const passwordLimitationNumber = document.getElementById("palavrapasse");
+
+    // telephoneNumber.addEventListener('input', function(){
+    // if(this.value.length > 9)
+    // {
+    //   this.value = this.value.slice(0, 1);
+    // }
+    // })
